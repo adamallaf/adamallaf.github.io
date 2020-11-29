@@ -1,5 +1,7 @@
 ---
 title: Home
+permalink: /index.html
+type: homepage
 ---
 <style type="text/css">
 @-webkit-keyframes flicker {
