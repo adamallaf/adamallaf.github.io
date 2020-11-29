@@ -1,1 +1,6 @@
+<style type="text/css">
+  body {
+    background-color: #336655;
+  }
+</style>
 Hello!
