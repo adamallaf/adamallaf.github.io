@@ -1,6 +1,7 @@
 <style type="text/css">
-  body {
-    background-color: #336655;
-  }
+body {
+  background-image: url("interlace.png");
+  background-repeat: repeat;
+}
 </style>
 Hello!
