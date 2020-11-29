@@ -3,3 +3,7 @@
 
 @import "{{ site.theme }}";
 @import "./main.css";
+
+body {
+  color: #00ff00;
+}
