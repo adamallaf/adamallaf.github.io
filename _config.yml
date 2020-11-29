@@ -1,5 +1,5 @@
-favicon: ./favicon.ico
+favicon: assets/favicon.ico
 
 use_logo: true
 
-logo: ./favicon.ico
+logo: assets/aa10.png
