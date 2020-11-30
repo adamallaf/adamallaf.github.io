@@ -31,3 +31,23 @@ body {
   background: -webkit-radial-gradient(center center, contain, rgba(64, 32, 64, 0.75), black) center center no-repeat, black;
   -webkit-background-size: 100% 100%;
 }
+
+/* unvisited link */
+a:link {
+  color: #00ff00;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: #80ff80;
+}
+
+/* selected link */
+a:active {
+  color: #ff00ff;
+}
