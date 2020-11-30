@@ -4,11 +4,11 @@ email: adam@allaf.pl
 github_username: adamallaf
 bitbucket_username: adamallaf
 
-favicon: assets/favicon.ico
+favicon: /assets/favicon.ico
 
 use_logo: true
 
-logo: assets/aa10.png
+logo: /assets/aa10.png
 
 # Build settings
 markdown: kramdown
