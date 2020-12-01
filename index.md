@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /index.html
-layout: default
+layout: page
 type: homepage
 ---
 {% include navigation.html %}

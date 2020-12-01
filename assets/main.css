@@ -46,3 +46,31 @@ a:hover {
 a:active {
   color: #ff00ff;
 }
+
+.wrapper {
+  max-width: calc(800px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.page-content {
+  padding: 30px 0;
+  flex: 1;
+}
+
+header {
+  position: relative;
+  min-height: 60px;
+  border-bottom: 1px solid #ff00ff;
+}
+
+main {
+  dispaly: block;
+}
+
+footer {
+  border-top: 1px solid #ff00ff;
+  padding: 30px 0;
+}
