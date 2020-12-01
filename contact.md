@@ -1,6 +1,6 @@
 ---
 title: Contact
 permalink: /contact
-layout: page
+layout: default
 ---
 {% include navigation.html %}
