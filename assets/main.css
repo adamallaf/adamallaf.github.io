@@ -21,7 +21,7 @@ html, body {
   height: 100%;
 }
 body {
-  font: 1.3rem Consolas, monospace;
+  font: 1em Consolas, monospace;
   color: #00ff00;
   background: -webkit-radial-gradient(center center, contain, rgba(64, 32, 64, 0.75), black) center center no-repeat, black;
   -webkit-background-size: 100% 100%;
