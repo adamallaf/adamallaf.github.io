@@ -63,7 +63,7 @@ a:active {
 header {
   position: relative;
   min-height: 60px;
-  border-bottom: 1px solid #ff00ff;
+  border-bottom: 1px solid #00ff00;
 }
 
 main {
@@ -71,6 +71,6 @@ main {
 }
 
 footer {
-  border-top: 1px solid #ff00ff;
+  border-top: 1px solid #00ff00;
   padding: 30px 0;
 }
