@@ -1,6 +1,7 @@
 ---
 title: Contact
 permalink: /contact
-layout: default
+layout: page
 ---
-{% include navigation.html %}
+# Github
+https://github.com/adamallaf
